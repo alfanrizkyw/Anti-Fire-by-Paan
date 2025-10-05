@@ -1,3 +1,5 @@
+https://alfanrizkyw.github.io/Anti-Fire-by-Paan/
+
 Anti-Fire by Paan
 
 Anti-Fire by Paan adalah sistem deteksi kebakaran berbasis web yang menggunakan teknologi webcam untuk mendeteksi api secara real-time. Dengan sensitivitas tinggi, sistem ini dapat mendeteksi api bahkan dalam kondisi yang sulit sekalipun. Begitu api terdeteksi, aplikasi ini akan menampilkan peringatan visual yang menarik, memainkan alarm keras, serta memberikan notifikasi teks dan suara yang jelas: "Api Terdeteksi."
